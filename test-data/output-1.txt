@@ -1,0 +1,3 @@
+SUCCESS  # <- GT4500
+SUCCESS  # <- TORPEDO primary
+SUCCESS  # <- TORPEDO fallback to primary

@@ -1,0 +1,4 @@
+# SINGLE: failing secondary -> no primary instead
+GT4500,5,0,5,1.0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
