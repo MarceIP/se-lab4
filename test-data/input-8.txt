@@ -1,0 +1,2 @@
+GT4500,5,1.0,5,1.0  # none fire
+TORPEDO,ALL  # both fail

@@ -1,0 +1,4 @@
+# SINGLE: primary first next (secondary) empty -> primary
+GT4500,5,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
